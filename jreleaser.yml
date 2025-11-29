@@ -36,7 +36,7 @@ project:
   description: HelloWorld in C#
   longDescription: HelloWorld in C#
   links:
-    homepage: https://github.com/jreleaser/helloworld-csharp
+    homepage: https://github.com/jreleaser/helloworld-csharp-slsa
   authors:
     - Andres Almiray
   license: APACHE-2.0
